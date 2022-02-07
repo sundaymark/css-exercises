@@ -1,5 +1,8 @@
-.para,
-.small-para {
+
+  .para{
+    color: red;
+  }
+   .small-para {
   color: hsl(0, 100%, 50%);
 }
 
@@ -24,12 +27,12 @@
   font-size: 20px;
 }
 
-.child {
+ div .child {
   color: red;
   font-size: 14px;
 }
 
-div.text {
+.text  {
   color: green;
   font-size: 28px;
 }
